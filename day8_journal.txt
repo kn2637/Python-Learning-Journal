@@ -1,0 +1,5 @@
+Day 8
+What I learned: 
+- File handling basics 
+- Modes in Python 
+Feeling Score (0-10): ___
