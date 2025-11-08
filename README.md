@@ -4,6 +4,7 @@
 Welcome to my **Python Learning Journal** — a real-time log of my daily progress as I learn Python, Data Analysis & Machine Learning with the goal of becoming a **Professional Data Analyst / Data Scientist**. 🚀
 
 This repository showcases:
+
 ✅ Daily Python practice  
 ✅ Real-world projects  
 ✅ Data Science journey from zero  
